@@ -1,0 +1,82 @@
+.navbar-image{
+    width: 80px;
+    height: 50px;
+    margin-left: 40px;
+}
+
+.getstartedbutton{
+    margin-right: 30px;
+}
+.bg-container{
+    height: 100vh;
+    background-size: cover;
+}
+.heading-card-title{
+    font-size: 24px;
+    margin-top: 130px;
+    padding: 10px;
+    padding-left: 30px;
+}
+.card-text{
+    margin-top: 10px;
+    padding: 8px;
+    padding-left: 30px;
+}
+.button-container{
+    padding-left: 30px;
+}
+.card-button{
+    background-color: rgb(41, 41, 220);
+    color: white;
+    padding: 18px;
+    padding-left: 30px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+}
+.iphoneImageedit{
+    position: absolute;
+    height: 650px;
+    width: 340px;
+    margin-top: 150px;
+    margin-left: 460px;
+    margin-right: 400px;
+    margin-bottom: 100px;
+}
+.iphoneDisplayImages{
+    position: absolute;
+    height: 900px;
+    width: 360px;
+    margin-top: 146px;
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-bottom: 200px;
+}
+.iphoneDisplayImagesDescription{
+    text-align: center;
+    font-size: 18px;
+}
+.dynamicimage{
+    position: absolute;
+    height: 26px;
+    width: 78px;
+    margin-top: 184px;
+    margin-left: 590px;
+    margin-right: 400px;
+}
+.iphoneDescription{
+    position: absolute;
+    margin-top: 1070px;
+    text-align: center;
+    margin-left: 270px;
+    margin-right: 270px;
+}
+.footer-image{
+    width: 100px;
+    height: 70px;
+    margin-top: 1200px;
+}
+.listItems{
+    display: flex;
+    flex-direction: column;
+}
